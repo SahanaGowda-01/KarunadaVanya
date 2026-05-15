@@ -7,23 +7,21 @@ A wildlife conservation and farmer safety Android app for Karnataka's forest reg
 ## 📱 About the App
 
 Karunada Vanya is a community-focused app designed to bridge the gap between forest departments, farmers, and villagers living near Karnataka's wildlife corridors. It provides real-time wildlife movement alerts, safety guidelines, and educational resources to help communities coexist safely with wildlife.
-
----
+--------
 ## 📸 App Screenshots
 
 | Home | Navigation Drawer | Wildlife Wiki |
 |------|------------------|---------------|
-| ![Home](Screenshots/Home%20screen.png) | ![Drawer](Screenshots/overview%20screen.png) | ![Wiki](Screenshots/wiki%20screen.png) |
+| ![Home](screenshots/Home%20screen.png) | ![Drawer](screenshots/overview%20screen.png) | ![Wiki](screenshots/wiki%20screen.png) |
 
 | Wiki Flora | Wiki Detail | Movement Alerts |
 |------------|-------------|-----------------|
-| ![Flora](Screenshots/wiki%20flora.png) | ![Detail](Screenshots/wiki%20info.png) | ![Alerts](Screenshots/movement%20alert%20screen.png) |
+| ![Flora](screenshots/wiki%20flora.png) | ![Detail](screenshots/wiki%20info.png) | ![Alerts](screenshots/movement%20alert%20screen.png) |
 
 | Report Movement | Safety Guide | Forest Audio | Audio Playing |
 |----------------|--------------|--------------|---------------|
-| ![Report](Screenshots/create%20alert.png) | ![Safety](Screenshots/safety%20guide%20screen.png) | ![Audio](Screenshots/audio.png) | ![Playing](Screenshots/audio%20screen.png) |
-
----
+| ![Report](screenshots/create%20alert.png) | ![Safety](screenshots/safety%20guide%20screen.png) | ![Audio](screenshots/audio.png) | ![Playing](screenshots/audio%20screen.png) |
+----------
 ## ✨ Features
 
 - **🔴 Movement Alerts** — Real-time wildlife sighting reports powered by Firebase Firestore, with automatic 6-hour expiry for accuracy
